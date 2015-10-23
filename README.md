@@ -14,4 +14,4 @@ The goals of this application are:
 
 ## Architecture
 
-
+![screen shot 2015-10-23 at 09 30 05](https://cloud.githubusercontent.com/assets/15093329/10686881/d24cf928-7968-11e5-8fcb-652b2cf88709.png)
