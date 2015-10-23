@@ -9,9 +9,9 @@ a web site for indipendent commerce.
 
 The goals of this application are:
 
-1. Goal1
-2. Goal2
-3. Goal3
+1. Provide a contact to the person concerned to the product
+2. Create a commerce based on the reliability and free trade
+3. Create a right commerce value and any product
 
 ## Architecture
 
