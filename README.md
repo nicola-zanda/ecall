@@ -12,3 +12,6 @@ The goals of this application are:
 2. Goal2
 3. Goal3
 
+## Architecture
+
+
