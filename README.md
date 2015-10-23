@@ -1,4 +1,4 @@
-# ecall by Nicola
+# eCall by Nicola
 
 ## Introduction
 
